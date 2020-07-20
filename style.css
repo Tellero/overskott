@@ -1,5 +1,6 @@
 html {
-	background-color: #282828;
+	/*background-color: #282828;*/
+	background-image: linear-gradient(to bottom right, #282828, #000000);
 	min-height: 100%;
 }
 
@@ -29,6 +30,7 @@ a:visited {
 
 a:hover {
 	text-decoration: underline;
+	color: #f36b08;
 }
 
 /* Header */
